@@ -2,7 +2,7 @@
 YouTube Data Harvesting and Analysis 
 Welcome to the YouTube Data Harvesting and Analysis project! This repository contains a Python script that empowers you to collect and analyze YouTube channel data. It utilizes data from both MongoDB and MySQL databases, allowing you to gain insights into video statistics, comments, and popular channels. Whether you're a data enthusiast or a content creator looking for valuable insights, this script is designed to provide you with actionable information.  
 
-**Features **
+**Features**
 
 1. Data Collection: Retrieve channel statistics, video details, and comments using YouTube Data API and store them in MongoDB.
 2. Interactive Dashboard: Use the Streamlit interactive dashboard to perform queries, visualize data, and gain insights.
@@ -12,12 +12,12 @@ Welcome to the YouTube Data Harvesting and Analysis project! This repository con
     
 **Getting Started**
 
-Install Dependencies: 
-Install the necessary Python libraries 
-API Keys and Database Setup: 
-Acquire a YouTube Data API key. Set up a MongoDB Atlas cluster and a MySQL database with credentials (root, password: 1234). Modify the connection strings in the script. 
-Running the Script: 
-Run the script by executing: streamlit run your_script_name.py. Use the Streamlit dashboard to interact with the script's functionalities. 
+1.Install Dependencies: 
+  Install the necessary Python libraries
+2.API Keys and Database Setup: 
+  Acquire a YouTube Data API key. Set up a MongoDB Atlas cluster and a MySQL database with credentials (root, password: 1234). Modify the connection strings in the script. 
+3.Running the Script: 
+  Run the script by executing: streamlit run your_script_name.py. Use the Streamlit dashboard to interact with the script's functionalities. 
 
 
 **Dashboard Usage** 
